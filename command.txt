@@ -1,0 +1,21 @@
+hi all
+
+i am a new user of this platform.
+
+i want to learn about the platform and the features.
+
+add.
+commit.
+push.
+pull.
+branch.
+merge.
+
+give command
+
+git add .
+git commit -m "commit message"
+git push
+git pull
+git branch
+git merge
